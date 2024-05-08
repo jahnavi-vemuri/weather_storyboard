@@ -4,7 +4,7 @@ This app is written in Swift using Storyboard for UI in Xcode.
 
 I obtained weather data from Open Weather and used their API. 
 
-For this, I signed up and confirmed account. Once I did all that, I received an API Key which I used to fetch the data through API calls using Almofire.
+For this, I signed up and confirmed account. Once I did all that, I received an API Key which I used to fetch the data through API calls using Alamofire.
 
 Used the search view controller to get the input (city name) from the user. 
 
